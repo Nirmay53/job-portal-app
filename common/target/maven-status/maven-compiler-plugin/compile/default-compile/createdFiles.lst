@@ -1,0 +1,3 @@
+com\personal\project\common\repository\UserRepository.class
+com\personal\project\common\config\DatabaseConfig.class
+com\personal\project\common\entity\User.class

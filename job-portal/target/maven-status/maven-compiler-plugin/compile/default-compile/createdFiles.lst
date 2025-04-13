@@ -1,0 +1,17 @@
+com\personal\project\jobportal\model\Salary.class
+com\personal\project\jobportal\service\ApplicationService.class
+com\personal\project\jobportal\security\JWTAuthenticationFilter.class
+com\personal\project\jobportal\controller\ApplicationController.class
+com\personal\project\jobportal\exception\DocumentNotFoundException.class
+com\personal\project\jobportal\repository\JobRepository.class
+com\personal\project\jobportal\config\SecurityConfig.class
+com\personal\project\jobportal\controller\JobController.class
+com\personal\project\jobportal\repository\ApplicationRepository.class
+com\personal\project\jobportal\JobPortalApplication.class
+com\personal\project\jobportal\service\JobService.class
+com\personal\project\jobportal\config\MongoConfig.class
+com\personal\project\jobportal\model\Application.class
+com\personal\project\jobportal\client\AuthClient.class
+com\personal\project\jobportal\config\AppConfig.class
+com\personal\project\jobportal\model\UserInfo.class
+com\personal\project\jobportal\model\Job.class
